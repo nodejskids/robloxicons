@@ -1,0 +1,1230 @@
+{
+    "Accessory": {
+        "x": 0,
+        "y": 0
+    },
+    "Actor": {
+        "x": 1,
+        "y": 0
+    },
+    "AdGui": {
+        "x": 2,
+        "y": 0
+    },
+    "AdPortal": {
+        "x": 3,
+        "y": 0
+    },
+    "AirController": {
+        "x": 4,
+        "y": 0
+    },
+    "AlignOrientation": {
+        "x": 5,
+        "y": 0
+    },
+    "AlignPosition": {
+        "x": 6,
+        "y": 0
+    },
+    "AngularVelocity": {
+        "x": 7,
+        "y": 0
+    },
+    "Animation": {
+        "x": 8,
+        "y": 0
+    },
+    "AnimationConstraint": {
+        "x": 9,
+        "y": 0
+    },
+    "AnimationController": {
+        "x": 10,
+        "y": 0
+    },
+    "AnimationFromVideoCreatorService": {
+        "x": 11,
+        "y": 0
+    },
+    "Animator": {
+        "x": 12,
+        "y": 0
+    },
+    "ArcHandles": {
+        "x": 13,
+        "y": 0
+    },
+    "Atmosphere": {
+        "x": 14,
+        "y": 0
+    },
+    "Attachment": {
+        "x": 15,
+        "y": 0
+    },
+    "AudioAnalyzer": {
+        "x": 16,
+        "y": 0
+    },
+    "AudioChannelMixer": {
+        "x": 17,
+        "y": 0
+    },
+    "AudioChannelSplitter": {
+        "x": 0,
+        "y": 1
+    },
+    "AudioChorus": {
+        "x": 1,
+        "y": 1
+    },
+    "AudioCompressor": {
+        "x": 2,
+        "y": 1
+    },
+    "AudioDeviceInput": {
+        "x": 3,
+        "y": 1
+    },
+    "AudioDeviceOutput": {
+        "x": 4,
+        "y": 1
+    },
+    "AudioDistortion": {
+        "x": 5,
+        "y": 1
+    },
+    "AudioEcho": {
+        "x": 6,
+        "y": 1
+    },
+    "AudioEmitter": {
+        "x": 7,
+        "y": 1
+    },
+    "AudioEqualizer": {
+        "x": 8,
+        "y": 1
+    },
+    "AudioFader": {
+        "x": 9,
+        "y": 1
+    },
+    "AudioFilter": {
+        "x": 10,
+        "y": 1
+    },
+    "AudioFlanger": {
+        "x": 11,
+        "y": 1
+    },
+    "AudioGate": {
+        "x": 12,
+        "y": 1
+    },
+    "AudioLimiter": {
+        "x": 13,
+        "y": 1
+    },
+    "AudioListener": {
+        "x": 14,
+        "y": 1
+    },
+    "AudioPitchShifter": {
+        "x": 15,
+        "y": 1
+    },
+    "AudioPlayer": {
+        "x": 16,
+        "y": 1
+    },
+    "AudioRecorder": {
+        "x": 17,
+        "y": 1
+    },
+    "AudioReverb": {
+        "x": 0,
+        "y": 2
+    },
+    "AudioSpeechToText": {
+        "x": 1,
+        "y": 2
+    },
+    "AudioTextToSpeech": {
+        "x": 2,
+        "y": 2
+    },
+    "AudioTremolo": {
+        "x": 3,
+        "y": 2
+    },
+    "AuroraScript": {
+        "x": 4,
+        "y": 2
+    },
+    "AvatarEditorService": {
+        "x": 5,
+        "y": 2
+    },
+    "AvatarSettings": {
+        "x": 6,
+        "y": 2
+    },
+    "Backpack": {
+        "x": 7,
+        "y": 2
+    },
+    "BallSocketConstraint": {
+        "x": 8,
+        "y": 2
+    },
+    "BasePlate": {
+        "x": 9,
+        "y": 2
+    },
+    "Beam": {
+        "x": 10,
+        "y": 2
+    },
+    "BillboardGui": {
+        "x": 11,
+        "y": 2
+    },
+    "BindableEvent": {
+        "x": 12,
+        "y": 2
+    },
+    "BindableFunction": {
+        "x": 13,
+        "y": 2
+    },
+    "BlockMesh": {
+        "x": 14,
+        "y": 2
+    },
+    "BloomEffect": {
+        "x": 15,
+        "y": 2
+    },
+    "BlurEffect": {
+        "x": 16,
+        "y": 2
+    },
+    "BodyAngularVelocity": {
+        "x": 17,
+        "y": 2
+    },
+    "BodyColors": {
+        "x": 0,
+        "y": 3
+    },
+    "BodyForce": {
+        "x": 1,
+        "y": 3
+    },
+    "BodyGyro": {
+        "x": 2,
+        "y": 3
+    },
+    "BodyPosition": {
+        "x": 3,
+        "y": 3
+    },
+    "BodyThrust": {
+        "x": 4,
+        "y": 3
+    },
+    "BodyVelocity": {
+        "x": 5,
+        "y": 3
+    },
+    "Bone": {
+        "x": 6,
+        "y": 3
+    },
+    "BoolValue": {
+        "x": 7,
+        "y": 3
+    },
+    "BoxHandleAdornment": {
+        "x": 8,
+        "y": 3
+    },
+    "Breakpoint": {
+        "x": 9,
+        "y": 3
+    },
+    "BrickColorValue": {
+        "x": 10,
+        "y": 3
+    },
+    "BubbleChatConfiguration": {
+        "x": 11,
+        "y": 3
+    },
+    "Buggaroo": {
+        "x": 12,
+        "y": 3
+    },
+    "CFrameValue": {
+        "x": 13,
+        "y": 3
+    },
+    "Camera": {
+        "x": 14,
+        "y": 3
+    },
+    "CanvasGroup": {
+        "x": 15,
+        "y": 3
+    },
+    "ChannelTabsConfiguration": {
+        "x": 16,
+        "y": 3
+    },
+    "CharacterControllerManager": {
+        "x": 17,
+        "y": 3
+    },
+    "CharacterMesh": {
+        "x": 0,
+        "y": 4
+    },
+    "Chat": {
+        "x": 1,
+        "y": 4
+    },
+    "ChatInputBarConfiguration": {
+        "x": 2,
+        "y": 4
+    },
+    "ChatWindowConfiguration": {
+        "x": 3,
+        "y": 4
+    },
+    "ChorusSoundEffect": {
+        "x": 4,
+        "y": 4
+    },
+    "Class": {
+        "x": 5,
+        "y": 4
+    },
+    "Cleanup": {
+        "x": 6,
+        "y": 4
+    },
+    "ClickDetector": {
+        "x": 7,
+        "y": 4
+    },
+    "ClientReplicator": {
+        "x": 8,
+        "y": 4
+    },
+    "ClimbController": {
+        "x": 9,
+        "y": 4
+    },
+    "Clouds": {
+        "x": 10,
+        "y": 4
+    },
+    "Color": {
+        "x": 11,
+        "y": 4
+    },
+    "ColorCorrectionEffect": {
+        "x": 12,
+        "y": 4
+    },
+    "CompressorSoundEffect": {
+        "x": 13,
+        "y": 4
+    },
+    "ConeHandleAdornment": {
+        "x": 14,
+        "y": 4
+    },
+    "Configuration": {
+        "x": 15,
+        "y": 4
+    },
+    "Constant": {
+        "x": 16,
+        "y": 4
+    },
+    "Constructor": {
+        "x": 17,
+        "y": 4
+    },
+    "Controller": {
+        "x": 0,
+        "y": 5
+    },
+    "CoreGui": {
+        "x": 1,
+        "y": 5
+    },
+    "CornerWedgePart": {
+        "x": 2,
+        "y": 5
+    },
+    "CylinderHandleAdornment": {
+        "x": 3,
+        "y": 5
+    },
+    "CylindricalConstraint": {
+        "x": 4,
+        "y": 5
+    },
+    "Decal": {
+        "x": 5,
+        "y": 5
+    },
+    "DepthOfFieldEffect": {
+        "x": 6,
+        "y": 5
+    },
+    "Dialog": {
+        "x": 7,
+        "y": 5
+    },
+    "DialogChoice": {
+        "x": 8,
+        "y": 5
+    },
+    "DistortionSoundEffect": {
+        "x": 9,
+        "y": 5
+    },
+    "DragDetector": {
+        "x": 10,
+        "y": 5
+    },
+    "EchoSoundEffect": {
+        "x": 11,
+        "y": 5
+    },
+    "EditableImage": {
+        "x": 12,
+        "y": 5
+    },
+    "EditableMesh": {
+        "x": 13,
+        "y": 5
+    },
+    "Enum": {
+        "x": 14,
+        "y": 5
+    },
+    "EnumMember": {
+        "x": 15,
+        "y": 5
+    },
+    "EqualizerSoundEffect": {
+        "x": 16,
+        "y": 5
+    },
+    "Event": {
+        "x": 17,
+        "y": 5
+    },
+    "Explosion": {
+        "x": 0,
+        "y": 6
+    },
+    "FaceControls": {
+        "x": 1,
+        "y": 6
+    },
+    "Field": {
+        "x": 2,
+        "y": 6
+    },
+    "File": {
+        "x": 3,
+        "y": 6
+    },
+    "Fire": {
+        "x": 4,
+        "y": 6
+    },
+    "FlangeSoundEffect": {
+        "x": 5,
+        "y": 6
+    },
+    "Folder": {
+        "x": 6,
+        "y": 6
+    },
+    "ForceField": {
+        "x": 7,
+        "y": 6
+    },
+    "Frame": {
+        "x": 8,
+        "y": 6
+    },
+    "Function": {
+        "x": 9,
+        "y": 6
+    },
+    "GameSettings": {
+        "x": 10,
+        "y": 6
+    },
+    "GroundController": {
+        "x": 11,
+        "y": 6
+    },
+    "Handles": {
+        "x": 12,
+        "y": 6
+    },
+    "HapticEffect": {
+        "x": 13,
+        "y": 6
+    },
+    "HapticService": {
+        "x": 14,
+        "y": 6
+    },
+    "HeightmapImporterService": {
+        "x": 15,
+        "y": 6
+    },
+    "Highlight": {
+        "x": 16,
+        "y": 6
+    },
+    "HingeConstraint": {
+        "x": 17,
+        "y": 6
+    },
+    "Humanoid": {
+        "x": 0,
+        "y": 7
+    },
+    "HumanoidDescription": {
+        "x": 1,
+        "y": 7
+    },
+    "IKControl": {
+        "x": 2,
+        "y": 7
+    },
+    "ImageButton": {
+        "x": 3,
+        "y": 7
+    },
+    "ImageHandleAdornment": {
+        "x": 4,
+        "y": 7
+    },
+    "ImageLabel": {
+        "x": 5,
+        "y": 7
+    },
+    "InputAction": {
+        "x": 6,
+        "y": 7
+    },
+    "InputBinding": {
+        "x": 7,
+        "y": 7
+    },
+    "InputContext": {
+        "x": 8,
+        "y": 7
+    },
+    "Interface": {
+        "x": 9,
+        "y": 7
+    },
+    "IntersectOperation": {
+        "x": 10,
+        "y": 7
+    },
+    "Keyword": {
+        "x": 11,
+        "y": 7
+    },
+    "Lighting": {
+        "x": 12,
+        "y": 7
+    },
+    "LineForce": {
+        "x": 13,
+        "y": 7
+    },
+    "LineHandleAdornment": {
+        "x": 14,
+        "y": 7
+    },
+    "LinearVelocity": {
+        "x": 15,
+        "y": 7
+    },
+    "LocalFile": {
+        "x": 16,
+        "y": 7
+    },
+    "LocalScript": {
+        "x": 17,
+        "y": 7
+    },
+    "LocalizationService": {
+        "x": 0,
+        "y": 8
+    },
+    "LocalizationTable": {
+        "x": 1,
+        "y": 8
+    },
+    "MaterialService": {
+        "x": 2,
+        "y": 8
+    },
+    "MaterialVariant": {
+        "x": 3,
+        "y": 8
+    },
+    "MemoryStoreService": {
+        "x": 4,
+        "y": 8
+    },
+    "MeshPart": {
+        "x": 5,
+        "y": 8
+    },
+    "Meshparts": {
+        "x": 6,
+        "y": 8
+    },
+    "MessagingService": {
+        "x": 7,
+        "y": 8
+    },
+    "Method": {
+        "x": 8,
+        "y": 8
+    },
+    "Model": {
+        "x": 9,
+        "y": 8
+    },
+    "Modelgroups": {
+        "x": 10,
+        "y": 8
+    },
+    "Module": {
+        "x": 11,
+        "y": 8
+    },
+    "ModuleScript": {
+        "x": 12,
+        "y": 8
+    },
+    "Motor6D": {
+        "x": 13,
+        "y": 8
+    },
+    "NegateOperation": {
+        "x": 14,
+        "y": 8
+    },
+    "NetworkClient": {
+        "x": 15,
+        "y": 8
+    },
+    "NoCollisionConstraint": {
+        "x": 16,
+        "y": 8
+    },
+    "Operator": {
+        "x": 17,
+        "y": 8
+    },
+    "PackageLink": {
+        "x": 0,
+        "y": 9
+    },
+    "Pants": {
+        "x": 1,
+        "y": 9
+    },
+    "Part": {
+        "x": 2,
+        "y": 9
+    },
+    "ParticleEmitter": {
+        "x": 3,
+        "y": 9
+    },
+    "Path2D": {
+        "x": 4,
+        "y": 9
+    },
+    "PathfindingLink": {
+        "x": 5,
+        "y": 9
+    },
+    "PathfindingModifier": {
+        "x": 6,
+        "y": 9
+    },
+    "PathfindingService": {
+        "x": 7,
+        "y": 9
+    },
+    "PitchShiftSoundEffect": {
+        "x": 8,
+        "y": 9
+    },
+    "Place": {
+        "x": 9,
+        "y": 9
+    },
+    "Plane": {
+        "x": 10,
+        "y": 9
+    },
+    "PlaneConstraint": {
+        "x": 11,
+        "y": 9
+    },
+    "Player": {
+        "x": 12,
+        "y": 9
+    },
+    "Players": {
+        "x": 13,
+        "y": 9
+    },
+    "PluginGuiService": {
+        "x": 14,
+        "y": 9
+    },
+    "PointLight": {
+        "x": 15,
+        "y": 9
+    },
+    "PrismaticConstraint": {
+        "x": 16,
+        "y": 9
+    },
+    "Property": {
+        "x": 17,
+        "y": 9
+    },
+    "ProximityPrompt": {
+        "x": 0,
+        "y": 10
+    },
+    "PublishService": {
+        "x": 1,
+        "y": 10
+    },
+    "Reference": {
+        "x": 2,
+        "y": 10
+    },
+    "RemoteEvent": {
+        "x": 3,
+        "y": 10
+    },
+    "RemoteFunction": {
+        "x": 4,
+        "y": 10
+    },
+    "RenderingTest": {
+        "x": 5,
+        "y": 10
+    },
+    "ReplicatedFirst": {
+        "x": 6,
+        "y": 10
+    },
+    "ReplicatedScriptService": {
+        "x": 7,
+        "y": 10
+    },
+    "ReplicatedStorage": {
+        "x": 8,
+        "y": 10
+    },
+    "ReverbSoundEffect": {
+        "x": 9,
+        "y": 10
+    },
+    "RigidConstraint": {
+        "x": 10,
+        "y": 10
+    },
+    "RobloxPluginGuiService": {
+        "x": 11,
+        "y": 10
+    },
+    "RocketPropulsion": {
+        "x": 12,
+        "y": 10
+    },
+    "RodConstraint": {
+        "x": 13,
+        "y": 10
+    },
+    "RopeConstraint": {
+        "x": 14,
+        "y": 10
+    },
+    "Rotate": {
+        "x": 15,
+        "y": 10
+    },
+    "ScreenGui": {
+        "x": 16,
+        "y": 10
+    },
+    "Script": {
+        "x": 17,
+        "y": 10
+    },
+    "ScrollingFrame": {
+        "x": 0,
+        "y": 11
+    },
+    "Seat": {
+        "x": 1,
+        "y": 11
+    },
+    "Selected_Workspace": {
+        "x": 2,
+        "y": 11
+    },
+    "SelectionBox": {
+        "x": 3,
+        "y": 11
+    },
+    "SelectionSphere": {
+        "x": 4,
+        "y": 11
+    },
+    "ServerScriptService": {
+        "x": 5,
+        "y": 11
+    },
+    "ServerStorage": {
+        "x": 6,
+        "y": 11
+    },
+    "Service": {
+        "x": 7,
+        "y": 11
+    },
+    "Shirt": {
+        "x": 8,
+        "y": 11
+    },
+    "ShirtGraphic": {
+        "x": 9,
+        "y": 11
+    },
+    "SkinnedMeshPart": {
+        "x": 10,
+        "y": 11
+    },
+    "Sky": {
+        "x": 11,
+        "y": 11
+    },
+    "Smoke": {
+        "x": 12,
+        "y": 11
+    },
+    "Snap": {
+        "x": 13,
+        "y": 11
+    },
+    "Snippet": {
+        "x": 14,
+        "y": 11
+    },
+    "SocialService": {
+        "x": 15,
+        "y": 11
+    },
+    "Sound": {
+        "x": 16,
+        "y": 11
+    },
+    "SoundEffect": {
+        "x": 17,
+        "y": 11
+    },
+    "SoundGroup": {
+        "x": 0,
+        "y": 12
+    },
+    "SoundService": {
+        "x": 1,
+        "y": 12
+    },
+    "Sparkles": {
+        "x": 2,
+        "y": 12
+    },
+    "SpawnLocation": {
+        "x": 3,
+        "y": 12
+    },
+    "SpecialMesh": {
+        "x": 4,
+        "y": 12
+    },
+    "SphereHandleAdornment": {
+        "x": 5,
+        "y": 12
+    },
+    "SpotLight": {
+        "x": 6,
+        "y": 12
+    },
+    "SpringConstraint": {
+        "x": 7,
+        "y": 12
+    },
+    "StandalonePluginScripts": {
+        "x": 8,
+        "y": 12
+    },
+    "StarterCharacterScripts": {
+        "x": 9,
+        "y": 12
+    },
+    "StarterGui": {
+        "x": 10,
+        "y": 12
+    },
+    "StarterPack": {
+        "x": 11,
+        "y": 12
+    },
+    "StarterPlayer": {
+        "x": 12,
+        "y": 12
+    },
+    "StarterPlayerScripts": {
+        "x": 13,
+        "y": 12
+    },
+    "Struct": {
+        "x": 14,
+        "y": 12
+    },
+    "StyleDerive": {
+        "x": 15,
+        "y": 12
+    },
+    "StyleLink": {
+        "x": 16,
+        "y": 12
+    },
+    "StyleRule": {
+        "x": 17,
+        "y": 12
+    },
+    "StyleSheet": {
+        "x": 0,
+        "y": 13
+    },
+    "SunRaysEffect": {
+        "x": 1,
+        "y": 13
+    },
+    "SurfaceAppearance": {
+        "x": 2,
+        "y": 13
+    },
+    "SurfaceGui": {
+        "x": 3,
+        "y": 13
+    },
+    "SurfaceLight": {
+        "x": 4,
+        "y": 13
+    },
+    "SurfaceSelection": {
+        "x": 5,
+        "y": 13
+    },
+    "SwimController": {
+        "x": 6,
+        "y": 13
+    },
+    "TaskScheduler": {
+        "x": 7,
+        "y": 13
+    },
+    "Team": {
+        "x": 8,
+        "y": 13
+    },
+    "Teams": {
+        "x": 9,
+        "y": 13
+    },
+    "Terrain": {
+        "x": 10,
+        "y": 13
+    },
+    "TerrainDetail": {
+        "x": 11,
+        "y": 13
+    },
+    "TestService": {
+        "x": 12,
+        "y": 13
+    },
+    "TextBox": {
+        "x": 13,
+        "y": 13
+    },
+    "TextBoxService": {
+        "x": 14,
+        "y": 13
+    },
+    "TextButton": {
+        "x": 15,
+        "y": 13
+    },
+    "TextChannel": {
+        "x": 16,
+        "y": 13
+    },
+    "TextChatCommand": {
+        "x": 17,
+        "y": 13
+    },
+    "TextChatService": {
+        "x": 0,
+        "y": 14
+    },
+    "TextLabel": {
+        "x": 1,
+        "y": 14
+    },
+    "TextString": {
+        "x": 2,
+        "y": 14
+    },
+    "Texture": {
+        "x": 3,
+        "y": 14
+    },
+    "Tool": {
+        "x": 4,
+        "y": 14
+    },
+    "Torque": {
+        "x": 5,
+        "y": 14
+    },
+    "TorsionSpringConstraint": {
+        "x": 6,
+        "y": 14
+    },
+    "Trail": {
+        "x": 7,
+        "y": 14
+    },
+    "TremoloSoundEffect": {
+        "x": 8,
+        "y": 14
+    },
+    "TrussPart": {
+        "x": 9,
+        "y": 14
+    },
+    "TypeParameter": {
+        "x": 10,
+        "y": 14
+    },
+    "UGCValidationService": {
+        "x": 11,
+        "y": 14
+    },
+    "UIAspectRatioConstraint": {
+        "x": 12,
+        "y": 14
+    },
+    "UICorner": {
+        "x": 13,
+        "y": 14
+    },
+    "UIDragDetector": {
+        "x": 14,
+        "y": 14
+    },
+    "UIFlexItem": {
+        "x": 15,
+        "y": 14
+    },
+    "UIGradient": {
+        "x": 16,
+        "y": 14
+    },
+    "UIGridLayout": {
+        "x": 17,
+        "y": 14
+    },
+    "UIListLayout": {
+        "x": 0,
+        "y": 15
+    },
+    "UIPadding": {
+        "x": 1,
+        "y": 15
+    },
+    "UIPageLayout": {
+        "x": 2,
+        "y": 15
+    },
+    "UIScale": {
+        "x": 3,
+        "y": 15
+    },
+    "UISizeConstraint": {
+        "x": 4,
+        "y": 15
+    },
+    "UIStroke": {
+        "x": 5,
+        "y": 15
+    },
+    "UITableLayout": {
+        "x": 6,
+        "y": 15
+    },
+    "UITextSizeConstraint": {
+        "x": 7,
+        "y": 15
+    },
+    "UnionOperation": {
+        "x": 8,
+        "y": 15
+    },
+    "Unit": {
+        "x": 9,
+        "y": 15
+    },
+    "UniversalConstraint": {
+        "x": 10,
+        "y": 15
+    },
+    "UnreliableRemoteEvent": {
+        "x": 11,
+        "y": 15
+    },
+    "UpdateAvailable": {
+        "x": 12,
+        "y": 15
+    },
+    "UserService": {
+        "x": 13,
+        "y": 15
+    },
+    "VRService": {
+        "x": 14,
+        "y": 15
+    },
+    "Value": {
+        "x": 15,
+        "y": 15
+    },
+    "Variable": {
+        "x": 16,
+        "y": 15
+    },
+    "VectorForce": {
+        "x": 17,
+        "y": 15
+    },
+    "VehicleSeat": {
+        "x": 0,
+        "y": 16
+    },
+    "VideoDisplay": {
+        "x": 1,
+        "y": 16
+    },
+    "VideoFrame": {
+        "x": 2,
+        "y": 16
+    },
+    "VideoPlayer": {
+        "x": 3,
+        "y": 16
+    },
+    "ViewportFrame": {
+        "x": 4,
+        "y": 16
+    },
+    "VirtualUser": {
+        "x": 5,
+        "y": 16
+    },
+    "VoiceChannel": {
+        "x": 6,
+        "y": 16
+    },
+    "VoiceChatService": {
+        "x": 7,
+        "y": 16
+    },
+    "Voicechat": {
+        "x": 8,
+        "y": 16
+    },
+    "WedgePart": {
+        "x": 9,
+        "y": 16
+    },
+    "Weld": {
+        "x": 10,
+        "y": 16
+    },
+    "WeldConstraint": {
+        "x": 11,
+        "y": 16
+    },
+    "Wire": {
+        "x": 12,
+        "y": 16
+    },
+    "WireframeHandleAdornment": {
+        "x": 13,
+        "y": 16
+    },
+    "Workspace": {
+        "x": 14,
+        "y": 16
+    },
+    "WorldModel": {
+        "x": 15,
+        "y": 16
+    },
+    "WrapDeformer": {
+        "x": 16,
+        "y": 16
+    },
+    "WrapLayer": {
+        "x": 17,
+        "y": 16
+    },
+    "WrapTarget": {
+        "x": 0,
+        "y": 17
+    }
+}
